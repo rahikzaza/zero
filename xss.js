@@ -1,1 +1,1 @@
-alert(`Injaction Xss by Sub_Zero`)
+alert(`Sub_Zero`);
