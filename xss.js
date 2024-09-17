@@ -1,1 +1,1 @@
-confirm('Sub_Zero');
+prompt();
