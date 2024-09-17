@@ -1,1 +1,1 @@
-alert(`Sub_Zero`);
+confirm('Sub_Zero');
